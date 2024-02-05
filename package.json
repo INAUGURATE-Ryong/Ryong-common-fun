@@ -1,0 +1,26 @@
+{
+  "name": "ryong-common-fun",
+  "version": "0.1.0",
+  "description": "common function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/INAUGURATE-Ryong/Ryong-common-fun.git"
+  },
+  "keywords": [
+    "common",
+    "js",
+    "function",
+    "export",
+    "module"
+  ],
+  "author": "Ryong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/INAUGURATE-Ryong/Ryong-common-fun/issues"
+  },
+  "homepage": "https://github.com/INAUGURATE-Ryong/Ryong-common-fun#readme"
+}
